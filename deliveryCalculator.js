@@ -75,7 +75,7 @@ var Car_20_tonn= 52;
         // Зададим максимально допустимое число маршрутов, возвращаемых мультимаршрутизатором.
         route.model.setParams({results: 1}, true);
         
-  //
+  //http://qaru.site/questions/15040/formatting-a-number-with-exactly-two-decimals-in-javascript
         function round(value, exp) {
             if (typeof exp === 'undefined' || +exp === 0)
               return Math.round(value);
