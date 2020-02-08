@@ -1,4 +1,4 @@
-# karta
+# kartayandex
 https://fraules.github.io/karta/
 https://fraules.github.io/karta/deliveryCalculator.html
 тест с помощью 
